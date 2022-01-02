@@ -1,0 +1,84 @@
+{
+    "menu" : [
+        {
+            "jenis" : "food",
+            "nama" : "pizza sosis",
+            "deskripsi" : "pizza dengan taburan sosis",
+            "harga" : "45k",
+            "estimasi" : "15 menit",
+            "gambar" : "pizza.png"
+        },
+        {
+            "jenis" : "food",
+            "nama" : "sushi mentai",
+            "deskripsi" : "sushi dengan daging salmon dibalut nasi saus mentai",
+            "harga" : "35k",
+            "estimasi" : "15 menit",
+            "gambar" : "sushi.jpg"
+        },
+        {
+            "jenis" : "food",
+            "nama" : "steak sirloin",
+            "deskripsi" : "steak daging sapi tanpa lemak",
+            "harga" : "105k",
+            "estimasi" : "30 menit",
+            "gambar" : "steak.jpg"
+        },
+        {
+            "jenis" : "food",
+            "nama" : "nasi goreng spesial",
+            "deskripsi" : "nasi goreng dengan ayam goreng",
+            "harga" : "25k",
+            "estimasi" : "10 menit",
+            "gambar" : "nasigoreng.jpg"
+        },
+        {
+            "jenis" : "food",
+            "nama" : "nasi teriyaki",
+            "deskripsi" : "nasi dengan daging ayam teriyaki",
+            "harga" : "25k",
+            "estimasi" : "10 menit",
+            "gambar" : "nasiteriyaki.jpg"
+        },
+        {
+            "jenis" : "drink",
+            "nama" : "air putih",
+            "deskripsi" : "aqua",
+            "harga" : "5k",
+            "estimasi" : "2 menit",
+            "gambar" : "air.jpg"
+        },
+        {
+            "jenis" : "drink",
+            "nama" : "teh manis",
+            "deskripsi" : "teh manis",
+            "harga" : "10k",
+            "estimasi" : "5 menit",
+            "gambar" : "teh.jpg"
+        },
+        {
+            "jenis" : "drink",
+            "nama" : "jus pisang",
+            "deskripsi" : "pisang yang di jus",
+            "harga" : "15k",
+            "estimasi" : "10 menit",
+            "gambar" : "jus.jpg"
+        },
+        {
+            "jenis" : "drink",
+            "nama" : "susu cokelat",
+            "deskripsi" : "susu rasa cokelat",
+            "harga" : "10k",
+            "estimasi" : "5 menit",
+            "gambar" : "susucokelat.jpg"
+        },
+        {
+            "jenis" : "drink",
+            "nama" : "susu asli",
+            "deskripsi" : "susu original",
+            "harga" : "10k",
+            "estimasi" : "5 menit",
+            "gambar" : "susuasli.jpg"
+        }
+    ]
+}
